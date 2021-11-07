@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Abdellatif
 - 👀 I’m interested in learning mobile developement as well as new upcoming sofware concepts
-- 🌱 I’m currently learning computer networks and soon unmanned vehicle systems
+- 🌱 I’m currently learning software project management and autonomous robot design 
 -    I'm currently looking for an internship to learn more about software development and to continue my career in computer science
 - 📫 How to reach me, through my email mosham08@gmail.com
 
